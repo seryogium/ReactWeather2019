@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactWeather2019/static/css/main.f6d933bc.chunk.css",
+    "main.css": "/ReactWeather2019/static/css/main.4fa4e853.chunk.css",
     "main.js": "/ReactWeather2019/static/js/main.8671f866.chunk.js",
     "main.js.map": "/ReactWeather2019/static/js/main.8671f866.chunk.js.map",
     "runtime-main.js": "/ReactWeather2019/static/js/runtime-main.53f38b69.js",
@@ -8,15 +8,15 @@
     "static/js/2.b037b887.chunk.js": "/ReactWeather2019/static/js/2.b037b887.chunk.js",
     "static/js/2.b037b887.chunk.js.map": "/ReactWeather2019/static/js/2.b037b887.chunk.js.map",
     "index.html": "/ReactWeather2019/index.html",
-    "precache-manifest.7a76960e81e80854be4ff5fb65422c87.js": "/ReactWeather2019/precache-manifest.7a76960e81e80854be4ff5fb65422c87.js",
+    "precache-manifest.a10d9de1a17e27413b56edeb853a2d3d.js": "/ReactWeather2019/precache-manifest.a10d9de1a17e27413b56edeb853a2d3d.js",
     "service-worker.js": "/ReactWeather2019/service-worker.js",
-    "static/css/main.f6d933bc.chunk.css.map": "/ReactWeather2019/static/css/main.f6d933bc.chunk.css.map",
+    "static/css/main.4fa4e853.chunk.css.map": "/ReactWeather2019/static/css/main.4fa4e853.chunk.css.map",
     "static/js/2.b037b887.chunk.js.LICENSE": "/ReactWeather2019/static/js/2.b037b887.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.53f38b69.js",
     "static/js/2.b037b887.chunk.js",
-    "static/css/main.f6d933bc.chunk.css",
+    "static/css/main.4fa4e853.chunk.css",
     "static/js/main.8671f866.chunk.js"
   ]
 }
